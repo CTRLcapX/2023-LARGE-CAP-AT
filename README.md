@@ -4,7 +4,7 @@
 [2]: [CUMULATIVE](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)
 
 
-## 1.0	&ensp; PRACTICAL SYSTEM ENGINEERING AND TESTING FOR AT / HFT SYSTEMS
+## 1.0	&ensp; SYSTEM DEVELOPMENT FOR AT / HFT SYSTEMS IN EQUITIES
 
 ### 	&ensp;	&ensp; 1.1	&ensp; Sector Specific Development Procedures .
 
