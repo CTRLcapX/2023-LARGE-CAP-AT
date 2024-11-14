@@ -50,7 +50,7 @@ Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 ### 	&ensp;	&ensp; 4.1	&ensp; Scalability
 
 
-10/ 20/ 30/ 40 SHARES            |  10K/ 20K/ 30K Shares
+x 1            |  x 1000
 :-------------------------|-------------------------:
 ![](https://github.com/user-attachments/assets/a8fa3be0-fc0f-47af-b0e5-0b324ebd24d9) |  ![](https://github.com/user-attachments/assets/422fa7d2-b09e-4868-a23d-2327490b5d33)
 
