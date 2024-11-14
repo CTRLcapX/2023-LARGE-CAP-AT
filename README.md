@@ -43,11 +43,11 @@ Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 </br> </br>
 ## 4.0 	&ensp; SYSTEM LIMITATIONS AND SCALABILITY
 
-### 	&ensp;	&ensp; 4.1	&ensp; Availability of Reliable Data and Usage Limitations.
+### 	&ensp;	&ensp; 4.1	&ensp; Availability of Reliable Data and Usage Limitations
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/ec014751-cecd-4777-8396-5beca628d409)
 
-### 	&ensp;	&ensp; 4.2	&ensp; Firm Capital Risk Constraints.
+### 	&ensp;	&ensp; 4.2	&ensp; Firm Capital and Risk Allocation Methodology
 
 ![Max Capital](https://github.com/user-attachments/assets/de3e9496-6d92-40b5-8d37-2f9a1ad06129)
 
