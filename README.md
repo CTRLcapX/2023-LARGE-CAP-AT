@@ -29,7 +29,7 @@ Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/31047ad7-60de-4967-a92f-1233c0339eb0)
 
 </br> </br>
-## 3.0	&ensp; SYSTEM ENHANCEMENT
+## 3.0	&ensp; SYSTEM ENHANCEMENT AND EVOLUTION
 
 ### 	&ensp;	&ensp; 3.1	&ensp; Fitzneale Package Enhancements
 
