@@ -95,4 +95,12 @@ x 1            |  x 1000
 
 </br>
 
+###### &ensp; &ensp; &ensp; &ensp; &nbsp;  For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> [&ensp; 	&ensp; 	&ensp; 	&ensp; 	&ensp; ref: https://github.com/bdincerTrader/Fauconberg1/tree/main](https://github.com/bdincerTrader/Fauconberg1/tree/main)
+
+
+
 For more information you can reach out directly via email at CTRLCAPX@OUTLOOK.COM.
+</br>
+
+</br>
+
