@@ -13,7 +13,11 @@
 Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 :-------------------------|-------------------------:
 ![](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)  | $29K Maximum Exposure </br> $5K Unit </br> Timer Optimization /3s </br> ![](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bdd5faf2-809f-43ac-9226-e6b5b89e1533)
-![](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/4874ba69-9a10-4239-94ec-a9619f40bc05)  | Fauconberg Model: N-00068 BD_Fauconberg </br> Metrics </br> Production: 05/2023 </br> </br> </br> </br> </br>
+![](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/4874ba69-9a10-4239-94ec-a9619f40bc05)  | Fauconberg Model: N-00068 BD_Fauconberg </br> Metrics </br> Production: /2023 </br> </br> </br> </br> </br>
+
+
+![image](https://github.com/user-attachments/assets/7c5aea24-c1e2-485f-9d6d-303d0032beb1)
+
 
 
 </br> </br>
@@ -41,13 +45,34 @@ Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 
 
 </br> </br>
-## 4.0 	&ensp; SYSTEM LIMITATIONS AND SCALABILITY
+## 4.0 	&ensp; SYSTEM SCALABILITY
 
-### 	&ensp;	&ensp; 4.1	&ensp; Availability of Reliable Data and Usage Limitations
+### 	&ensp;	&ensp; 4.1	&ensp; Scalability
+
+USING A SYSTEM OF 10/ 20/ 30/ 40 SHARES
+
+![image](https://github.com/user-attachments/assets/a8fa3be0-fc0f-47af-b0e5-0b324ebd24d9)
+
+10K/ 20K/ 30K Shares
+
+![image](https://github.com/user-attachments/assets/422fa7d2-b09e-4868-a23d-2327490b5d33)
+
+
+
+</br> </br>
+## 5.0 	&ensp; SYSTEM LIMITATIONS
+
+### 	&ensp;	&ensp; 5.1	&ensp; Availability of Reliable Data in Real-Time
+
+![image](https://github.com/user-attachments/assets/2e40a33b-cac7-415d-affd-3ed78614476e)
+
+### 	&ensp;	&ensp; 5.2	&ensp; Availability of Data Storage
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/ec014751-cecd-4777-8396-5beca628d409)
 
-### 	&ensp;	&ensp; 4.2	&ensp; Firm Capital and Risk Allocation Methodology
+### 	&ensp;	&ensp; 5.3	&ensp; Firm Capital Restraints
+ 
+![image](https://github.com/user-attachments/assets/d29552b9-3cf6-4d72-baf7-8b66b105641c)
 
-![Max Capital](https://github.com/user-attachments/assets/de3e9496-6d92-40b5-8d37-2f9a1ad06129)
+
 
