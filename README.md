@@ -1,8 +1,9 @@
-# 1.3	Performance
+# 1.3	Low-Latency Trading System Live Performance Metrics
 
 ### 5K/UNIT CYCL/5 TIMER/3s
 
-[submission-table-data (mstr).csv](https://github.com/bdincerTrader/Fauconberg1/files/11569613/submission-table-data.mstr.csv)
+[submission-table-data.mstr.csv](https://github.com/user-attachments/files/17745464/submission-table-data.mstr.csv)
+
 
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/d5345426-f1de-4a19-9cdc-e88c729db29f)
