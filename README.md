@@ -72,5 +72,8 @@ x 1            |  x 1000
 
 ![image](https://github.com/user-attachments/assets/d29552b9-3cf6-4d72-baf7-8b66b105641c)
 
+</br>
+
+##### [ref: https://github.com/bdincerTrader/Fauconberg1/tree/main](https://github.com/bdincerTrader/Fauconberg1/tree/main)
 
 
