@@ -1,9 +1,11 @@
-# 1.1	Development Procedures
+### 1.1	&ensp; Sector Specific Development Procedures 
 
-### 5K/UNIT CYCL/5 TIMER/3s
+##### [&ensp; &ensp; 1.1.1	&ensp; Fauconberg System - MSTR Test Outputs](https://github.com/user-attachments/files/17745464/submission-table-data.mstr.csv)
 
-[FAUCONBERG-MSTR](https://github.com/user-attachments/files/17745464/submission-table-data.mstr.csv)
 
+###### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 5K/UNIT CYCL/5 TIMER OPTIMIZATION /3s
+
+&ensp; &ensp; &ensp; &ensp; &ensp; &nbsp; ![image](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)
 
 
 ![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/d5345426-f1de-4a19-9cdc-e88c729db29f)
