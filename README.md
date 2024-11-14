@@ -1,18 +1,20 @@
+
+[1]: [DAILY](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bdd5faf2-809f-43ac-9226-e6b5b89e1533)
+[2]: [CUMULATIVE](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)
+
+
 ### 1.1	&ensp; Sector Specific Development Procedures 
+
+
+
+
 
 ##### [&ensp; &ensp; 1.1.1	&ensp; Fauconberg System - MSTR Test Outputs](https://github.com/user-attachments/files/17745464/submission-table-data.mstr.csv)
 
+Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
+:-------------------------|-------------------------:
+![](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)  | 5K/ UNIT CYCLE </br> TIMER OPTIMIZATION /3s </br> ![](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bdd5faf2-809f-43ac-9226-e6b5b89e1533)
 
-###### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 5K/UNIT CYCL/5 TIMER OPTIMIZATION /3s
-
-&ensp; &ensp; &ensp; &ensp; &ensp; &nbsp; ![image](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)
-
-
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/d5345426-f1de-4a19-9cdc-e88c729db29f)
-
-### MAX/MIN Intraday PL
-
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bdd5faf2-809f-43ac-9226-e6b5b89e1533)
 
 # 1.3	Low-Latency Trading System Live Performance Metrics
 
