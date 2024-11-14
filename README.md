@@ -80,6 +80,22 @@ x 1            |  x 1000
 
 </br>
 
+
+<pre> 
+    For more granular data, testing, quality assurance testing, and live trace blotters for these Systems:
+</pre>
+
 ##### [ref: https://github.com/bdincerTrader/Fauconberg1/tree/main](https://github.com/bdincerTrader/Fauconberg1/tree/main)
 
 
+
+
+<pre> 
+    TOC
+</pre>
+
+###### [&nbsp;i. &ensp;  LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
+
+###### [ii. &ensp;  AUTONOMOUS FUTURES TRADING SYSTEMS](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/README.md#1-backtesting-outputs)
+
+For more information you can reach out directly via email at CTRLCAPX@OUTLOOK.COM or call me at your convenience.
