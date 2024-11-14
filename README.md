@@ -2,7 +2,7 @@
 
 ### 5K/UNIT CYCL/5 TIMER/3s
 
-[submission-table-data.mstr.csv](https://github.com/user-attachments/files/17745464/submission-table-data.mstr.csv)
+[FAUCONBERG-MSTR](https://github.com/user-attachments/files/17745464/submission-table-data.mstr.csv)
 
 
 
