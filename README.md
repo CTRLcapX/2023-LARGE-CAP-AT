@@ -13,7 +13,7 @@
 
 Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 :-------------------------|-------------------------:
-![](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)  | 5K/ UNIT CYCLE </br> TIMER OPTIMIZATION /3s </br> ![](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bdd5faf2-809f-43ac-9226-e6b5b89e1533)
+![](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)  | Max $29K Cycle </br> $5K Unit </br> Timer Optimization /3s </br> ![](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/bdd5faf2-809f-43ac-9226-e6b5b89e1533)
 
 
 # 1.3	Low-Latency Trading System Live Performance Metrics
