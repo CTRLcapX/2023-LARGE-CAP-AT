@@ -4,7 +4,7 @@
 [2]: [CUMULATIVE](https://github.com/user-attachments/assets/e1613bba-2aef-491f-b10a-e5f18843134d)
 
 
-## 1.0	&ensp; SYSTEMS ENGINEERING AND TESTING
+## 1.0	&ensp; SYSTEM ENGINEERING AND TESTING
 
 ### 	&ensp;	&ensp; 1.1	&ensp; Sector Specific Development Procedures .
 
