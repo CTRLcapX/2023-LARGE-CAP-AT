@@ -7,10 +7,7 @@
 
 ###### [&nbsp;i. &ensp;  LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
-&ensp; 	&ensp; 	&ensp; 	&ensp; For more granular data, quality assurance test results, and live trace blotter outputs for AT/ HFT SYSTEMS I have developed/ deployed.
-</br>
-
-###### [	&ensp; 	&ensp; 	&ensp; 	&ensp; 	&ensp; ref: https://github.com/bdincerTrader/Fauconberg1/tree/main](https://github.com/bdincerTrader/Fauconberg1/tree/main)
+###### &ensp; &ensp; &ensp; &ensp; &nbsp;  For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> [&ensp; 	&ensp; 	&ensp; 	&ensp; 	&ensp; ref: https://github.com/bdincerTrader/Fauconberg1/tree/main](https://github.com/bdincerTrader/Fauconberg1/tree/main)
 
 ## 1.0	&ensp; SYSTEM DEVELOPMENT FOR AT / HFT SYSTEMS IN EQUITIES
 
