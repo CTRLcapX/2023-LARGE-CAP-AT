@@ -9,6 +9,9 @@
 
 ###### &ensp; &ensp; &ensp; &ensp; &nbsp;  For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> [&ensp; 	&ensp; 	&ensp; 	&ensp; 	&ensp; ref: https://github.com/bdincerTrader/Fauconberg1/tree/main](https://github.com/bdincerTrader/Fauconberg1/tree/main)
 
+
+</br> </br>
+
 ## 1.0	&ensp; SYSTEM DEVELOPMENT FOR AT / HFT SYSTEMS IN EQUITIES
 
 ### 	&ensp;	&ensp; 1.1	&ensp; Sector Specific Calibration
