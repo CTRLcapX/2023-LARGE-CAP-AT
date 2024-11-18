@@ -5,8 +5,6 @@
 
 # CONTENTS
 
-# CONTENTS
-
 #### [&nbsp;I. &ensp; 2024 COVER LETTER ](https://github.com/user-attachments/files/17799543/2024.COVER.LETTER.pdf)
 
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
