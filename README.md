@@ -101,16 +101,10 @@ x 1            |  x 1000
 ###### [&nbsp;i. &ensp;  LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
 ###### [ii. &ensp;  AUTONOMOUS FUTURES TRADING SYSTEMS](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/README.md#1-backtesting-outputs)
-</br>
 
-</br>
-
-###### &ensp; &ensp; &ensp; &ensp; &nbsp;  For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> [&ensp; 	&ensp; 	&ensp; 	&ensp; 	&ensp; ref: https://github.com/bdincerTrader/Fauconberg1/tree/main](https://github.com/bdincerTrader/Fauconberg1/tree/main)
-
-
-
-For more information you can reach out directly via email at CTRLCAPX@OUTLOOK.COM.
-</br>
 
 </br>
 
+
+## <contact information>
+###### For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> Please contact my Agent at [917-656-5697](tel:19176565697) or email me directly via CTRLCAPX@OUTLOOK.COM
