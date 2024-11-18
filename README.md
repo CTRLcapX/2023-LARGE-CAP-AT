@@ -33,7 +33,10 @@ Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 
 ### 	&ensp;	&ensp; 2.1	&ensp; Asynchronous Performance.
 
-![image](https://github.com/bdincerTrader/Fauconberg1/assets/127531384/7a9a1be8-a093-4b70-8c0a-5d2f9cf77519)
+
+Fitznaele             |  SwitchBox 4  |  Daily Performance and Cumulative PL
+:-------------------------|:-------------------------|-------------------------:
+![](https://github.com/user-attachments/assets/9f357d7c-0c37-4399-828e-2263152c7860) |  ![](https://github.com/user-attachments/assets/7bef3ab2-8e11-447e-8e04-1bee0b0d431b) | ![](https://github.com/user-attachments/assets/5bcee63e-af75-412d-bdcf-2b9dc799ccbb)
 
 
 ### 	&ensp;	&ensp; 2.2	&ensp; System Specific Performance.
