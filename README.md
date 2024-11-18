@@ -5,6 +5,16 @@
 
 # CONTENTS
 
+# CONTENTS
+
+#### [&nbsp;I. &ensp; 2024 COVER LETTER ](https://github.com/user-attachments/files/17799543/2024.COVER.LETTER.pdf)
+
+#### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
+
+###### &ensp; &ensp; &ensp; &ensp; &nbsp;  For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br>  &ensp; &ensp; &ensp; &ensp; &nbsp;  Please contact my Agent at [917-656-5697](tel:19176565697) or email me directly via CTRLCAPX@OUTLOOK.COM
+</br>
+
+
 ###### [&nbsp;i. &ensp;  LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
 </br>
