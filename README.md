@@ -13,7 +13,12 @@
 </br>
 
 
-###### [&nbsp;i. &ensp;  LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
+###### [&nbsp;i. &ensp; &nbsp;LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
+
+###### [&nbsp;ii. &ensp;  AT/ HFT PERFORMANCE / METRICS](https://github.com/bdincerTrader/outputTradeLogs/blob/main/README.md#new-controls-in-qa)
+
+
+
 
 
 
