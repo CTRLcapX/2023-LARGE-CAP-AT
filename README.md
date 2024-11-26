@@ -46,6 +46,8 @@ Daily Performance and Cumulative PL             |  MAX/MIN Intraday PL
 </br> </br>
 ## B.2 &ensp; LIVE SYSTEM PRODUCTION METRICS
 
+
+
 ### 	&ensp;	&ensp; 2.1	&ensp; Asynchronous Performance.
 
 
@@ -60,6 +62,13 @@ Fitznaele             |  SwitchBox 4  |  Daily Performance and Cumulative PL
 
 </br> </br>
 ## B.3 &ensp; SYSTEM ENHANCEMENT AND EVOLUTION
+
+##### [ &ensp; &ensp; 	&ensp; &ensp;  3.0.1	&ensp; Fauconberg Enhancements - 06/07](https://github.com/bdincerTrader/Live-Testing/blob/main/20230607.md)
+
+##### [ &ensp; &ensp; 	&ensp; &ensp;  3.0.2	&ensp; Fauconberg Enhancements - 06/13](https://github.com/bdincerTrader/Live-Testing/blob/main/20230613.md)
+
+
+
 
 ### 	&ensp;	&ensp; 3.1	&ensp; Fitzneale Package Enhancements
 
