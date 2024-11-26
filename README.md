@@ -10,6 +10,8 @@
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
 
 
+</br>
+
 <!-- practical systems engineering in Large / Mid-Cap Equities  -->
 
 ## B. &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES
