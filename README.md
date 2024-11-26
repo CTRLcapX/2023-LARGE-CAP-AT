@@ -14,7 +14,7 @@
 
 <!-- practical systems engineering in Large / Mid-Cap Equities  -->
 
-## B. &ensp; AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES
+## B. &ensp; AT/ HFT TRADING SYSTEMS ENGINEERING IN LIQUID EQUITIES
 
 ###### [&nbsp; - &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
