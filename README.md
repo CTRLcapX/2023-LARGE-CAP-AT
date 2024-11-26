@@ -27,7 +27,11 @@
 ## 1.0	&ensp; SYSTEM DEVELOPMENT FOR AT / HFT SYSTEMS IN EQUITIES
 
 
-##### [ &ensp; &ensp; 	&ensp; &ensp;  1.0.1	&ensp; Fauconberg System - Constant Integration](https://github.com/bdincerTrader/Live-Testing/blob/main/20230613.md)
+##### [ &ensp; &ensp; 	&ensp; &ensp;  1.0.1	&ensp; Fauconberg System - Constant Integration](https://github.com/bdincerTrader/Live-Testing/blob/main/20230607.md)
+
+##### [ &ensp; &ensp; 	&ensp; &ensp;  1.0.2	&ensp; Fauconberg System - Constant Integration](https://github.com/bdincerTrader/Live-Testing/blob/main/20230613.md)
+
+
 
 
 
