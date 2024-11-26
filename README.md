@@ -22,8 +22,7 @@
 
 </br>
 
-![image](https://github.com/user-attachments/assets/7bf7a126-5f9a-475a-973f-fc008605b3f4)
-
+![image](https://github.com/user-attachments/assets/0386caf1-ba25-403f-81a8-738a5b05e32b)
 
 
 </br> </br>
