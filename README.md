@@ -10,6 +10,7 @@
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
 
 ## <practical systems engineering>
+</br>
 
 ## B. &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES
 
@@ -113,14 +114,18 @@ x 1            |  x 1000
 
 </br>
 
-## Available.
+## PRACTICAL APPLICATION DEVELOPMENT.
 
-###### [&nbsp;i. &ensp;  LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
+<!--  autonomous Futures Trading Systems in outright CL GC ES NQ YM ZB ZN E6 and their Micro Contracts -->
 
-###### [ii. &ensp;  AUTONOMOUS FUTURES TRADING SYSTEMS](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/README.md#1-backtesting-outputs)
+###### [A. &ensp; AUTONOMOUS FUTURES TRADING SYSTEMS](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/README.md#1-backtesting-outputs)
 
+<!--  AT / HFT in Large/ Mid- Cap Equities -->
+
+###### [B. &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
 </br>
+
 
 
 ## <contact information>
