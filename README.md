@@ -11,9 +11,9 @@
 
 ## <practical systems engineering>
 
-###### [&nbsp;A. &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
+###### [&nbsp; - &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
-###### [&nbsp;B. &ensp; AT/ HFT PERFORMANCE / METRICS](https://github.com/bdincerTrader/outputTradeLogs/blob/main/README.md#new-controls-in-qa)
+###### [&nbsp; - &ensp; AT/ HFT PERFORMANCE DATA](https://github.com/bdincerTrader/outputTradeLogs/blob/main/README.md#new-controls-in-qa)
 
 
 </br> </br>
