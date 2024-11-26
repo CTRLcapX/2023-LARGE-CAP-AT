@@ -9,6 +9,7 @@
 
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
 
+
 ## <practical systems engineering>
 </br>
 
@@ -17,6 +18,11 @@
 ###### [&nbsp; - &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
 ###### [&nbsp; - &ensp; AT/ HFT PERFORMANCE DATA](https://github.com/bdincerTrader/outputTradeLogs/blob/main/README.md#new-controls-in-qa)
+
+</br>
+
+![image](https://github.com/user-attachments/assets/7bf7a126-5f9a-475a-973f-fc008605b3f4)
+
 
 
 </br> </br>
